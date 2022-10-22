@@ -1,0 +1,6 @@
+[submodule "Project-3-Backend"]
+	path = Project-3-Backend
+	url = https://github.com/Justin-Chang-CS291A/Project-3-Backend
+[submodule "Project-3-Frontend"]
+	path = Project-3-Frontend
+	url = https://github.com/Justin-Chang-CS291A/Project-3-Frontend
